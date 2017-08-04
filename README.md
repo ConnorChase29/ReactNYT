@@ -1,1 +1,1 @@
-# ReactNYT
+# React NYT UCF Coding Boot Camp Assignment
